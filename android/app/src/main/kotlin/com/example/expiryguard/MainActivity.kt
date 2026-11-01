@@ -1,0 +1,5 @@
+package com.example.expiryguard
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
